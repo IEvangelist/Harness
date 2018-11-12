@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <Description>Harness relies on Selenium and aims to simplify automated UI testing.</Description>
-    <VersionPrefix>1.0.0</VersionPrefix>
+    <VersionPrefix>1.0.1</VersionPrefix>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <Authors>Centare</Authors>
