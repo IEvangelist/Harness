@@ -1,8 +1,9 @@
 # Harness
 
-### Build Status
+### Status
 
-
+[![NuGet version (IEvangelist.Harness)](https://img.shields.io/nuget/v/IEvangelist.Harness.svg?style=flat-square)](https://www.nuget.org/packages/IEvangelist.Harness/)
+[![Build status](https://davidpine.visualstudio.com/IEvangelist.Harness/_apis/build/status/IEvangelist.Harness%20.NET%20Core-CI)](https://davidpine.visualstudio.com/IEvangelist.Harness/_build/latest?definitionId=3)
 
 ### Overview
 
